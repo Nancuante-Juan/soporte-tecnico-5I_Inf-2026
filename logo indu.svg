@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravitdesign.com -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 999.99998 999.99998"
+   width="1000pt"
+   height="1000pt"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       id="_clipPath_gdMG8UEFI1QWXUQNOJTgsQbqqE0AtFUu">
+      <rect
+         width="1000"
+         height="1000"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_gdMG8UEFI1QWXUQNOJTgsQbqqE0AtFUu)"
+     id="g12">
+    <ellipse
+       style="isolation:isolate;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:29.7716;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path13"
+       cx="500"
+       cy="499.99997"
+       rx="485.11423"
+       ry="485.1142" />
+    <path
+       d="M 225.987,463 161,614 l 285.806,1 61.822,-152 z"
+       fill="#9ad8e9"
+       id="path3" />
+    <path
+       d="M 416.771,451 H 231.152 L 297,298 v 0 h 278.738 l -5.173,12.718 z"
+       fill="#9ad8e9"
+       id="path4" />
+    <path
+       d="m 416.771,451 h 96.738 v 0 l 57.056,-140.282 z"
+       fill="#0684a5"
+       id="path5" />
+    <rect
+       x="732"
+       y="298"
+       width="25"
+       height="249"
+       fill="#000000"
+       id="rect5" />
+    <rect
+       x="632"
+       y="778"
+       width="125"
+       height="25"
+       fill="#000000"
+       id="rect6" />
+    <rect
+       x="732"
+       y="658"
+       width="25"
+       height="124"
+       fill="#000000"
+       id="rect7" />
+    <rect
+       x="742"
+       y="658"
+       width="86"
+       height="25"
+       fill="#000000"
+       id="rect8" />
+    <rect
+       x="803"
+       y="580.5"
+       width="25"
+       height="84"
+       fill="#000000"
+       id="rect9" />
+    <path
+       d="M 579.805,288 640,140 H 365 l -63.696,148 z"
+       fill="#9ad8e9"
+       id="path9" />
+    <path
+       d="m 279,571 v 43 l 167.806,1 61.822,-152 H 403 Z"
+       fill="#0387a2"
+       id="path10" />
+    <path
+       d="M 446.806,652 H 612 L 757,298 H 602 Z"
+       fill="#0387a2"
+       id="path11" />
+    <path
+       d="M 433,677 H 602 L 526,858 H 356 Z"
+       fill="#9ad8e9"
+       id="path12" />
+    <rect
+       x="279"
+       y="652"
+       width="345"
+       height="25"
+       fill="#000000"
+       id="rect12" />
+  </g>
+</svg>
